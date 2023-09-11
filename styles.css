@@ -1,9 +1,34 @@
 .blackpink {
     border: solid rgb(68, 0, 255) 3px;
 } 
+.bottom {
+    background-color:mediumslateblue;
+}
+.contact {
+    background-color: chocolate;
+}
+.header{
+    background-color: bisque;
+}
+.middle{
+    background-color: palevioletred;
+}
 .profile {
     border-radius: 50%;
-  }
+}
+
 body {
-    background-color: cornflowerblue ;
-  }
+    margin: 0;
+}
+h3 {
+    margin-top: 0;
+}
+hr {
+    /* background-color: white; */
+    border-style: dotted none none;
+    /* height: 0; */
+    width: 30%;
+    border-color: grey;
+    border-width:5px;
+    margin-bottom: 0;
+}
